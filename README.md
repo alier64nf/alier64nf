@@ -1,10 +1,10 @@
 ### Hi there 👋👋👋👋👋
 ## Welcome to My Profile 
 
-String MyName= "Alier"
-int contact= 58454312
-String Perfil= "Fronted"
-List<String> Idioma={"Español","English","Italian"}
+- String Name =  "Alier"
+int contact = 58454312
+String Perfil = "Fronted"
+List<String> Idioma ={"Español","English"}
 -----------------------------------
 - 💬 Ask me about ...
 
