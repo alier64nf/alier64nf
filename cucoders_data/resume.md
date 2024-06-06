@@ -6,7 +6,7 @@ proyecto propio usando Flutter. Mi objetivo es la construcción de Software Syst
 ## 🎓 Educación
 
 ### Universidad de Ciencias Informáticas, La Habana 
-- Estudiante de 3er Año.
+- Estudiante de 3er Año finalizando.
 
 ### Pre-Universitario, La Habana
  - Titulo Bachiller
@@ -39,11 +39,11 @@ Organizado
 - Lenguajes ( C++, Python, Dart, Typescript, Java, Javascript, SQL, HTML, CSS)
 - Frameworks (Boostrap, jQuery,Flutter, Angular)
 - Herramientas de Desarrollo (VsCode, Android Studio, NetBeans, Git,)
-- Bases de Datos (Pgadmin, PostgreSQL)
+- Bases de Datos (PostGre SQL)
 - Otros Software (Lunacy, Adobe Photoshop, Sketch, Excel, Access,etc...)
 
 ## 🌎 Idiomas
 Dominio Básico de Inglés 
-- Nivel de habilidad en idioma (e.g. Bilingue, Nativo, Avanzado, Intermedio, Básico)
+- Nivel de habilidad en idioma Básico Inglés 
 
 ## 🔗 Referencias disponibles a petición
