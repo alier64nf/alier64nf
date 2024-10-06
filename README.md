@@ -1,58 +1,104 @@
-### Hi there 👋👋👋👋👋
-## Welcome to My Profile 
+# 🌟 Alier Nuñez Fonseca
+La Habana, Cuba  
+📧 aliernf.dev64@gmail.com  
+📞 58454312  
 
-- String Name =  "Alier"
-- int contact = 58454312
-- String Perfil = "Fronted"
-- List<String> Idioma ={"Español","English"}
------------------------------------
-- 💬 Ask me about ...
+---
 
-I am a Computer Engineer within 2 years 😁😁, I'm lover about technology, I love challenges and learning new things, I learn fast. As Developer profile I can currently define myself as Fronted Developer. With basic knowledge in languages like Python, Java, C++, Flutter, Javascript, Angular.
+## 🎯 Professional Summary
+Hello! I'm **Alier**, a **Mobile Developer** with experience in languages like **Kotlin** and **Dart**, focusing on the **Flutter** framework to create effective applications. I thrive on solving problems through programming and am always on the lookout for new ways to enhance user experiences. 
 
-Soy Ingeniero Informático dentro de 2 años 😁😁, un apasionado de la tecnología, me encantan los retos y aprender cosas nuevas, Aprendo rápido. En cuanto a perfil de Desarrollador puedo definirme actualmente como Fronted. Con conocimientos básicos en lenguajes como Python, Java, C++, Flutter, Javascript, Angular.
+My key areas of expertise include mobile development, API communication, and creating custom libraries. I also have knowledge in web development using HTML, JavaScript, and CSS. I’m eager to learn about cross-platform development, especially how to integrate different technologies to create versatile solutions. I aim to contribute to projects that promote personal and professional well-being within teams.
 
+---
 
+## 💼 Work Experience
 
-------------------------------------
-- 🔭 I’m currently working on ...
+### 🚀 Junior Mobile Developer in Flutter/Kotlin
+**GoDjangoLLC** – United States of America  
+08/2024 - 10/2024
+- Developed an exciting Flutter application for managing businesses like physical stores using Sunmi (POS) devices!
+- Implemented connections between Flutter and Kotlin/Java layers for native device calls, maximizing its unique features.
+- Integrated APIs like Xpay and Enzona, facilitating smooth and secure transactions.
+- Quickly learned to utilize custom libraries, enhancing application functionality.
 
-I'm currently working on a completely own app, even Design us main. it's Personal Finance App for iOS and Android on Flutter....
-  
-  Actualmente trabajo en una aplicación propia completamente, hasta el diseño de Finanzas Personales para iOS y Android en Flutter....
-  
- 
-------------------------------------
-- 🌱 I’m currently learning ...
-  
-  I am studying Flutter, kotlin and Swift,in addition to finish my studies as an Engineer.
-  
-  Estoy estudiando FLUTTER y kotlin y Swift, además de terminar mis estudios como Ingeniero.
-  
+### 🛠️ Laboratory Technician
+**University of Computer Sciences** – Boyeros, La Habana, Cuba  
+07/2024 - 09/2024
+- Maintained and cared for computers, ensuring students had access to functional technology.
+- Prepared technological resources in classrooms, fostering a conducive learning environment.
+- Managed inventory for each classroom and lab, ensuring everything was in order.
 
-  
------------------------------------  
-- 👯 I’m looking to collaborate on
+---
 
-Any project that needs committed, responsible, fast learning person, willing to give their best. Obviously I can face anything but currently I define myself as a beginner.
+## 🎓 Education
 
-   Cualquier proyecto que necesiten personas comprometidas, responsables , de aprendizaje rápido, dispuestas a dar lo mejor de si. Lógicamente puedo enfrentarme a lo que sea pero actualmente me defino como principiante.
-  
-------------------------------------
+### 🎓 Bachelor’s Degree in Computer Science
+**University of Computer Sciences** – Boyeros, La Habana, Cuba  
+01/2021 - 12/2025
 
-- 🤔 I’m looking for help with ...
-  As much as possible my current goal is to gain experience. And I am a good problem solver.
+### 📚 High School Diploma
+**José Martí Pre-University** – Cojimar, La Habana, Cuba  
+09/2015 - 05/2018
 
-Lo que se pueda mi objetivo actual es adquirir experiencia. Y resolver problemas se me da bien.
-  
------------------------------------
-- 📫 How to reach me:
-    💬📞WhatsApp 58454312
-    📷 Instagram:    https://www.instagram.com/tito0820nf?igsh=MWpjOGR5djIwd2d4eg==
-  
-------------------------------------
-  
-  
--->
+---
+
+## 🛠️ Skills
+- **Programming Languages**: 
+  - Kotlin (5/10) 
+  - Dart (8/10) 
+  - JavaScript (7/10) 
+  - Python (4/10) 
+  - Java (5/10)
+
+- **Technologies & Tools**: 
+  - Django (5/10) 
+  - Flutter (8/10) 
+  - Angular (3/10) 
+  - Bootstrap (7/10) 
+  - SQL, PostgreSQL, Lunacy, Figma, Photoshop, Office
+
+- **Soft Skills**:
+  - Teamwork 🤝
+  - Effective Communication 📣
+  - Expressiveness 🎤
+  - Responsibility ✅
+  - Sense of Belonging ❤️
+  - Strong Performance Under Pressure 💪
+  - Friendly Demeanor in Tense Situations 😊
+
+---
+
+## 🌟 Featured Projects
+
+### 📦 PosCaja
+An innovative application for managing and invoicing businesses using POS devices (Sunmi). Through payment platforms, I created native communications with other libraries to fully leverage device features between Flutter and the native layer.
+- **Technologies Used**: Flutter, Dart, Kotlin, Java
+
+---
+
+## 📜 Certifications
+- **EFEST CEFRT (English Certificate)** – EF SET, June 28, 2024
+- **Entrepreneurship Workshop** – Archdiocese of Havana (Cuba Entrepreneur Project)
+
+---
+
+## 🌍 Languages
+- **English**: B2  
+- **Spanish**: Native  
+- **Italian**: A1  
+
+---
+
+## 🌈 Interests
+### Personal:
+I value maintaining a healthy mental balance while enjoying quality time with friends. I believe that cultivating meaningful relationships is essential for overall well-being.
+
+### Professional:
+I'm committed to growing my knowledge and experience. I'm passionate about learning more about artificial intelligence and new technologies. I'm always seeking ways to expand my skills in the fascinating world of programming! 🚀💻
+
+---
+
+Thank you for taking the time to get to know me! I'm excited about the opportunity to contribute to innovative projects that make a positive difference. Let's create something amazing together! 😊✨
 
 
