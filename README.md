@@ -33,7 +33,7 @@ My key areas of expertise include mobile development, API communication, and cre
 
 ## 🎓 Education
 
-### 🎓 Bachelor’s Degree in Computer Science
+### 🎓 Computer Science Engineer
 **University of Computer Sciences** – Boyeros, La Habana, Cuba  
 01/2021 - 12/2025
 
