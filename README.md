@@ -1,6 +1,6 @@
 # 🌟 Alier Nuñez Fonseca
 La Habana, Cuba  
-📧 aliernf.dev64@gmail.com  
+📧 afnunez.bi01@gmail.com  
 📞 58454312  
 
 ---
