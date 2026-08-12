@@ -2,9 +2,8 @@
 
 ### Ingeniero Informático · Desarrollador Fullstack
 
-📞 +53 5845 4312 · 📧 [alier.sysbusiness@gmail.com](mailto:alier.sysbusiness@gmail.com) · 📍 _[Ciudad, País]_
+📞 +53 5845 4312 · 📧 [alier.sysbusiness@gmail.com](mailto:alier.sysbusiness@gmail.com) · 📍 _[La Habana, Cuba]_
 
-🔗 [LinkedIn](#) · 💻 [GitHub](#) · 🌐 [Portafolio](#)
 
 ---
 
@@ -17,14 +16,14 @@ Ingeniero informático y desarrollador fullstack con experiencia liderando proye
 ## 💼 Experiencia profesional
 
 ### Desarrollador Fullstack / Móvil — GoDjango LLC
-`[Mes Año] – [Mes Año] · 1 año`
+`[01 2024] – [01 2025] · 1 año`
 
 - Desarrollo de aplicaciones móviles multiplataforma en **Flutter** e integración con terminales **POS de Huawei**.
 - Implementación de flujos de pago con tarjeta e impresión de recibos directamente desde los dispositivos POS.
 - Diseño y conexión de las aplicaciones con servicios backend y APIs para el procesamiento de transacciones.
 
 ### Director de Proyectos de Software — ETECSA S.A.
-`[Mes Año] – [Mes Año] · 1 año`
+`[02 2025] – [02 2026] · 1 año`
 
 - Dirección del desarrollo de un software de gestión empresarial orientado a la toma de decisiones.
 - Diseño y supervisión de **dashboards de KPIs** para el monitoreo del desempeño del negocio.
@@ -55,10 +54,10 @@ Ingeniero informático y desarrollador fullstack con experiencia liderando proye
 
 ## 🎓 Educación
 
-**Ingeniería Informática** — _[Universidad]_ · `[Año]`
+**Ingeniería Informática** — _[Universidad de las Ciencias Informáticas]_ · `[2026]`
 
 ---
 
 ## 🌍 Idiomas
 
-Español (nativo) · Italiano · Inglés _[nivel a especificar]_
+Español (nativo) · Italiano · Inglés _[B2 https://cert.efset.org/iv4oru ]_
